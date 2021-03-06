@@ -9,4 +9,4 @@ The course "Programming Basics" teaches basic programming skills, required for a
 - Working with loops (for)
 - Working with complex loops (nested for and while loops)
 # Certificate
-# <p align="center"> ![alt text](https://github.com/DimoDimchev/SoftUni-Python-Basics/blob/main/ProgrammingBasics-January2021-Certificate.jpeg) <p>
+# <p align="center"> ![alt text](https://github.com/DimoDimchev/SoftUni-Python-Basics/blob/main/Programming Basics - January 2021 - Certificate.jpeg) <p>
